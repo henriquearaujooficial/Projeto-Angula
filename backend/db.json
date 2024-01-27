@@ -34,6 +34,11 @@
       "name": "Bolsa Feminina",
       "price": "698.90",
       "id": 7
+    },
+    {
+      "name": "Máquina de Xerox",
+      "price": "20.980",
+      "id": 8
     }
   ]
 }
